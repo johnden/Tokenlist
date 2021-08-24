@@ -18,14 +18,14 @@
       {
         "name": "ANB Token",
         "symbol": "ANB",
-        "address": "TEV4ZozWruJXqwRSqkE4u2ts8RAN8sQVt7",
+        "address": "0x3185f0c7a90959faa9403d04fb673ddfa735c234",
         "decimals": 6,
         "chainId": 201910292,
         "logoURI": "https://coin.top/production/upload/logo/TTgnhmov3ezeUGxnfDdjvDt4WhNXDUD3bT.png"
       },
       {
         "name": "Wrapped TRX",
-        "address": "TYsbWxNnyTgsZaTFaue9hqpxkU3Fkco94a",
+        "address": "0xfb3b3134f13ccd2c81f4012e53024e8135d58fee",
         "symbol": "WTRX",
         "decimals": 6,
         "chainId": 201910292,
